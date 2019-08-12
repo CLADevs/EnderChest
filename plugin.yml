@@ -1,0 +1,10 @@
+name: EnderChest
+version: 1.0.0
+api: 3.0.0
+main: EnderChest\Main
+author: CLADevs
+
+commands:
+  enderchest:
+    aliases: ["echest", "ec"]
+    description: "Opens your enderchest."
